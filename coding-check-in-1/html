@@ -7,6 +7,7 @@
   <style type="text/css">
  
    #paragraph1 {color: red;}
+   #header {background-color: gray;}
    .blue {color: orange;}
   
   </style>
@@ -71,11 +72,11 @@ to the tires of a Buick.</p>
  
 <p id="paragraph15">On the other side of the road are two competitors that have come along more recently.</p>
  
-One of them (Be, Inc.) is selling fully operational Batmobiles (the BeOS). They are more beautiful and stylish even than the Euro-sedans, better designed, more technologically advanced, and at least as reliable as anything else on the market--and yet cheaper than the others.
+<p id="paragraph16">One of them (Be, Inc.) is selling fully operational Batmobiles (the BeOS). They are more beautiful and stylish even than the Euro-sedans, better designed, more technologically advanced, and at least as reliable as anything else on the market--and yet cheaper than the others.</p>
  
-With one exception, that is: Linux, which is right next door, and which is not a business at all. It's a bunch of RVs, yurts, tepees, and geodesic domes set up in a field and organized by consensus. The people who live there are making tanks. These are not old-fashioned, cast-iron Soviet tanks; these are more like the M1 tanks of the U.S. Army, made of space-age materials and jammed with sophisticated technology from one end to the other. But they are better than Army tanks. They've been modified in such a way that they never, ever break down, are light and maneuverable enough to use on ordinary streets, and use no more fuel than a subcompact car. These tanks are being cranked out, on the spot, at a terrific pace, and a vast number of them are lined up along the edge of the road with keys in the ignition. Anyone who wants can simply climb into one and drive it away for free.
+<p id="paragraph17">With one exception, that is: Linux, which is right next door, and which is not a business at all. It's a bunch of RVs, yurts, tepees, and geodesic domes set up in a field and organized by consensus. The people who live there are making tanks. These are not old-fashioned, cast-iron Soviet tanks; these are more like the M1 tanks of the U.S. Army, made of space-age materials and jammed with sophisticated technology from one end to the other. But they are better than Army tanks. They've been modified in such a way that they never, ever break down, are light and maneuverable enough to use on ordinary streets, and use no more fuel than a subcompact car. These tanks are being cranked out, on the spot, at a terrific pace, and a vast number of them are lined up along the edge of the road with keys in the ignition. Anyone who wants can simply climb into one and drive it away for free.</p>
  
-Customers come to this crossroads in throngs, day and night. Ninety percent of them go straight to the biggest dealership and buy station wagons or off-road vehicles. They do not even look at the other dealerships.
+<p id="paragraph17">Customers come to this crossroads in throngs, day and night. Ninety percent of them go straight to the biggest dealership and buy station wagons or off-road vehicles. They do not even look at the other dealerships.</p>
  
 Of the remaining ten percent, most go and buy a sleek Euro-sedan, pausing only to turn up their noses at the philistines going to buy the station wagons and ORVs. If they even notice the people on the opposite side of the road, selling the cheaper, technically superior vehicles, these customers deride them cranks and half-wits.
  
